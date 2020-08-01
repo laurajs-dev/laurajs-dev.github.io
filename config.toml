@@ -1,9 +1,10 @@
-baseURL = "https://www.soranta.net"
+baseURL = "https://www.selonen.net"
 languageCode = "en-us"
 title = "The Virtual Home of Laura"
 Paginate = 1000
 googleAnalytics = ""
 theme = "showcase"
+publishDir = "docs"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
