@@ -1,0 +1,19 @@
+baseURL = "https://www.soranta.net"
+languageCode = "en-us"
+title = "The Virtual Home of Laura"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "Laura"
+  description = "This is my virtual home"
+  message = ""
+  hideAutoMenu = true
+
+[social]
+  facebook = "https://www.facebook.com/laura.js.1690"
+  instagram = "https://www.instagram.com/l_j_s_/"
+  twitter = "https://twitter.com/laurajs_"
+  linkedin = "https://www.linkedin.com/in/laura-selonen-14028432/"
