@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "The Virtual Home of Laura"
 Paginate = 1000
 googleAnalytics = ""
-theme = "showcase"
 publishDir = "docs"
+theme = "showcase"
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 
 [params]
