@@ -1,7 +1,7 @@
 ---
 title: Cooking
 date: 2020-07-19
-subtitle: My cooking recipes will be here, stay tuned
+subtitle: My cooking recipes
 image: ./noodles.jpg
 link: ./ruoka.html
 ---
