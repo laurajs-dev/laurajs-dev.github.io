@@ -14,7 +14,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   hideAutoMenu = true
 
 [social]
-  facebook = "https://www.facebook.com/laura.js.1690"
   instagram = "https://www.instagram.com/l_j_s_/"
   twitter = "https://twitter.com/laurajs_"
   linkedin = "https://www.linkedin.com/in/laura-selonen-14028432/"
